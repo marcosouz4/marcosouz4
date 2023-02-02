@@ -13,8 +13,6 @@ JavaScript | React.js | React Native | Node.js | NestJS | SQL | AWS
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcoantoni0&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/marcoantoni0/github-readme-stats)
-
 [![marcoantoni0's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marcoantoni0&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=css,markdown,text,xml,.env%20file,Gitignore%20file&layout=compact)](https://github.com/marcoantoni0/github-readme-stats)
 
 </div>
