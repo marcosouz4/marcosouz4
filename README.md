@@ -1,12 +1,12 @@
 ### @marcoantoni0
 
-Hello, everyone! I‘m Marco, a Senior Software Engineer, focused on JavaScript. With over 8 years of experience, having worked in different roles such as a tech leader and a frontend developer.
+Hello, everyone! I‘m Marco, a senior software engineer with over 10 years of experience, with the opportunity to contribute as both a developer and a tech leader.
 
-I have a very efficient workflow since I’m detail-oriented and deliver clean codes that can be easily understood. Feel free to get in touch. Let’s exchange experiences and work together.
+My career has been one of continuous discovery, guided by extreme curiosity about technology and a steadfast attention to the fine details.I'm always eager to collaborate, share insights, and push the code quality boundaries.
 
 https://www.linkedin.com/in/marcoantoniocanhas/
 
-JavaScript | React.js | React Native | Node.js | NestJS | SQL | AWS
+JavaScript | React.js | React Native | Node.js | NestJS | AWS | Go
 
 
 --------
@@ -14,12 +14,6 @@ JavaScript | React.js | React Native | Node.js | NestJS | SQL | AWS
 <div align="center">
 
 [![marcoantoni0's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marcoantoni0&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=css,markdown,text,xml,.env%20file,Gitignore%20file&layout=compact)](https://github.com/marcoantoni0/github-readme-stats)
-
-</div>
-
-<div align="center">
-
-![Marco Antonio's GitHub stats](https://github-readme-stats.vercel.app/api/?username=marcoantoni0&show_icons=true&title_color=fff&count_private=true&include_all_commits=true&hide=issues,contribs&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 </div>
 
