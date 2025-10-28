@@ -4,7 +4,7 @@ Hello, everyone! I‘m Marco, a senior software engineer with over 10 years of e
 
 My career has been one of continuous discovery, guided by extreme curiosity about technology and a steadfast attention to the fine details.I'm always eager to collaborate, share insights, and push the code quality boundaries.
 
-https://www.linkedin.com/in/marcoantoniocanhas/
+https://www.linkedin.com/in/marcosouz4/
 
 JavaScript | React.js | React Native | Node.js | NestJS | AWS | Go
 
